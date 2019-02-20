@@ -38,7 +38,9 @@ In this case, you want to join the group of musician-developper, and that´s fin
    - **Tutorial 05:** Consolidating and validating your project > [LINK](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Documentation/tuto1.md)
      - Check for similar existing plugins
      - Draw some mockups and define features
-   - **Tutorial 06:** Use the new tutorial´s template > [LINK](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Documentation/tuto1.md)
+   - **Tutorial 06:** Are you ready ? if yes, time to work > [LINK](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Documentation/tuto1.md)
+     - Setting up your SLUG, ModuleName, and files
+     - Defining size and style for your module
 
 ---
 
