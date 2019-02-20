@@ -1,5 +1,5 @@
 # Tutorial: How to create modules for VCV-Rack
-Tutorials and tips on how to create modules for VCV Rack
+Tutorials and tips on how to create modules for VCV Rack 1.0
 by uriel Deveaud - 2019
 
 # WORK IN PROGRESS !
