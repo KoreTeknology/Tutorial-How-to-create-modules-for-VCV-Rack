@@ -48,9 +48,10 @@ In this case, you want to join the group of musician-developper, and that´s fin
    - **Tutorial 06:** Building basic components > [LINK](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Documentation/tuto1.md)
      - Objective, creating a simple audio circuit, aka "THE MIXER"
      - Creating Input and outpout ports
-     - Creating a knob that controls a num value
-     - Creating a switch button to change a boolean value
-     - Creating a vu meter to visualize a value
+     - Creating a knob that controls a num param
+     - Creating a switch button to change a boolean param
+     - Creating a vu meter to visualize a num param
+     - Creating a screen to visualize any param
      - Creating a momentary button
      - Creating a menu with static infos
    - **Tutorial 07:** Customizing your components > [LINK](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Documentation/tuto1.md)
