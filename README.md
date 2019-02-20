@@ -1,4 +1,4 @@
-# Tutorial How to create modules for VCV-Rack
+# Tutorial: How to create modules for VCV-Rack
 Tutorials and tips on how to create modules for VCV Rack
 by uriel Deveaud - 2019
 
@@ -13,7 +13,7 @@ Basically, musicians don´t like to loose their time into coding work, but there
 In this case, you want to join the group of musician-developper, and that´s fine. We will progress step by step and go from basic module to very complexe one.
 
 
-# Summary
+## Summary
 
 1. Prerequisites
    - **Tutorial 01:** Setup your development environment under Win10 > [LINK](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Documentation/tuto1.md)
