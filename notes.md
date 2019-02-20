@@ -1,2 +1,4 @@
 - json
 - nanovg
+- paths files and directory
+- jog dial control
