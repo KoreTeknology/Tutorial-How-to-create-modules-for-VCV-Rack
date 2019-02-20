@@ -2,6 +2,9 @@
 Tutorials and tips on how to create modules for VCV Rack
 by uriel Deveaud - 2019
 
+# WORK IN PROGRESS !
+- i am looking for people who can help to extend this documentation on building modules on MacOS and Linux ;)
+
 ---
 
 ## Introduction
