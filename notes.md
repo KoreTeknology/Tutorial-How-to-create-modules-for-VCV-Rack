@@ -10,4 +10,5 @@
 
 - theme changer
 ------------------------------------------------
-
+- keying set, keyboard control (from menu panel)
+- swap panel extension !
