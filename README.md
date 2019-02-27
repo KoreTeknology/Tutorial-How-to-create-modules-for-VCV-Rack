@@ -19,7 +19,7 @@ In this case, you want to join the group of musician-developper, and that´s fin
 ## Summary
 
 1. Prerequisites
-   - **Tutorial 01:** Setup your development environment under Win10 > [LINK](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Documentation/tuto1.md)
+   - **Tutorial 01:** Setup your development environment under Win10 > [LINK](https://github.com/KoreTeknology/Tutorial-How-to-create-modules-for-VCV-Rack/blob/master/tutorials/tutorial_1.md)
      - _Install a compiler and text editor_
      - _Setup VCV and modules files and folders_
    - **Tutorial 02:** Build VCV Rack from scratch > [LINK](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Documentation/tuto1.md)
