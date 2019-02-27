@@ -57,6 +57,7 @@ In this case, you want to join the group of musician-developper, and that´s fin
      - _Creating a screen to visualize any param_
      - _Creating a momentary button_
      - _Creating a menu with static infos_
+     - _Creating a user´s dynamic info on panel_
    - **Tutorial 07:** Customizing your components > [LINK](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Documentation/tuto1.md)
      - _Creating your background layer_
      - _Creating new controls_
