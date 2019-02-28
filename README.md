@@ -22,15 +22,15 @@ In this case, you want to join the group of musician-developper, and that´s fin
    - **Tutorial 01:** Setup your development environment under Win10 > [LINK](https://github.com/KoreTeknology/Tutorial-How-to-create-modules-for-VCV-Rack/blob/master/tutorials/tutorial_1.md)
      - _Install a compiler and text editor_
      - _Setup VCV and modules files and folders_
-   - **Tutorial 02:** Build VCV Rack from scratch > [LINK](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Documentation/tuto1.md)
+     - _Build VCV Rack from scratch_
  
  ---
  
 2. Building your First complete module, using Template files
-   - **Tutorial 03:** build and test the classic VCV Template > [LINK](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Documentation/tuto1.md)
+   - **Tutorial 02:** build and test the classic VCV Template > [LINK](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Documentation/tuto1.md)
      - _Download the Template files_
      - _Build and test the module in VCV Rack_
-   - **Tutorial 04:** Use the new tutorial´s template > [LINK](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Documentation/tuto1.md)
+   - **Tutorial 03:** Use the new tutorial´s template > [LINK](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Documentation/tuto1.md)
      - _Set basic module settings files and folders_
      - _Build and store new modules_
      - _Test your module in VCV Rack_
@@ -38,10 +38,10 @@ In this case, you want to join the group of musician-developper, and that´s fin
 ---
 
 3. Organizing your work and planning tasks
-   - **Tutorial 05:** Consolidating and validating your project > [LINK](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Documentation/tuto1.md)
+   - **Tutorial 04:** Consolidating and validating your project > [LINK](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Documentation/tuto1.md)
      - _Check for similar existing plugins_
      - _Draw some mockups and define features_
-   - **Tutorial 06:** Are you ready ? if yes, time to work > [LINK](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Documentation/tuto1.md)
+   - **Tutorial 05:** Are you ready ? if yes, time to work > [LINK](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Documentation/tuto1.md)
      - _Setting up your SLUG, ModuleName, and files_
      - _Defining size and style for your module_
 
