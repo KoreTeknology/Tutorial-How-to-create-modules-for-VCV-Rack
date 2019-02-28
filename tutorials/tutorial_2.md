@@ -8,3 +8,9 @@
 
 As we did for building VCV Rack, we will now add some modules from the "Fundamental" Official Serie.
 
+
+---
+
+[**Return to Main Menu**](../README.md)
+
+[**Previous tutorial**](tutorial_1.md) - [**Next tutorial**](tutorial_3.md)
