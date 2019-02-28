@@ -7,7 +7,7 @@ Trainings and tips on how to build your own virtual instrument for the [**VCV Ra
 
 ## Introduction
 
-So, you want to create your own instruments or module in **VCV Rack**. Welcome on board !
+So, you want to create your own instruments or modules to be played in **VCV Rack**. Welcome on-board !
 
 Before we start talking about **computer programming**, let´s have a look at the general profile and basic knowledge you may need during the process of creating your plugin. Right now, you have an idea, and i´am sure, the best one ! As a musician, you may have been diving into some sort of code... or not ! Or maybe, as a programmer, you want to learn how to make **musical instruments and audio devices** ? This tutorials serie is made for you. Lets look at the general context:
 
