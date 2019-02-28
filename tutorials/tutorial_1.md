@@ -27,28 +27,41 @@ Don´t forget to do any necessary updates, you always need the last version ! I 
 ## Downloading the VCV Rack Repository and building the main application
 
 Now, we have to get the source code of VCV Rack, to be able to compile it and to run it of course !
-Again, read carefully the VCV documentation page [**VCV documentation page**](https://vcvrack.com/manual/Building.html#setting-up-your-development-environment), and make sure you are completing each steps of the process, it is kind of easy, just follow the guide.
+Again, read carefully the [**VCV documentation page**](https://vcvrack.com/manual/Building.html#setting-up-your-development-environment), and make sure you are completing each steps of the process, it is kind of easy, just follow the guide.
 Be aware that from now, most of the commands will be executed thru the Msys64 console terminal, keep it open !
 
-Also, you should have this main VCV Rack directory´s accessible at:
+To get a close look at the commands, i did join each line bellow:
 ```
-C:/msys64/home/Rack/
+$ git clone https://github.com/VCVRack/Rack.git
+$ cd Rack
+$ git submodule update --init --recursive
+$ make dep
+$ make
+$ make run
 ```
-If it not exists, you must create manually the plugins folder:
-```
-C:/msys64/home/Rack/plugins/
-```
+- Duplicate the repository to your computer (automaticly in the HOME folder of Msys64)
+- Go to the newly created folder, called "Rack"
+- Check for updates (important !
+- Download files (you may add your processor setup: make -j4 dep)
+- Build the application (again, your processor setup is important here)
+- Open and run the application, You´ve just build VCV Rack !
 
 
 
 ## Configuring files and folders
 
----
+If everything was running up to the end, you should have this main VCV Rack directory´s accessible at:
+```
+C:/msys64/home/Rack/
+```
+If it not exists, you want create manually the plugins folder:
+```
+C:/msys64/home/Rack/plugins/
+```
 
-## Setup VCV and modules files and folders
+The VCV Rack source code doesn´t come with modules, you must download them and install them, or you must just open the module´s browser, on the official VCV RAck website. As you need some basic modules, you want to download the [**Fundamental**](https://github.com/VCVRack/Fundamental) modules serie. We will see in the next chapter how to build a module, and we will start with those ones, for their needed Audio, midi and classic modules.
 
----
-
+Download the package and "unzip" it into your plugins folder.. that´s all for the moment.
 
 ---
 
