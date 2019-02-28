@@ -2,8 +2,6 @@ Tutorial 01: Version 0.1
 
 # Setup your development environment under Win10
 
----
-
 So, let´s start from the beginning, you computer is up to become your building machine, but you need to prepare your setup to be able to build applications. First of all, you will need to download a couple of softwares to perform each tasks, as always, i recommend to get some free or open source applications, but other professional softwares will be fine. Just mind the corresponding download, regarding your operating system, and don´t forget that VCV Rack is only working on 64bits OS !
 
 - **Coding**,  [**Visual Studio Code**](https://code.visualstudio.com/)
@@ -16,15 +14,13 @@ Once you have installed those softwares, you need to understand what kind of fil
 - **.svg**, our visuals will be exported as SVG or "vector based graphics"
 - **.dll**, our final release will include the plugin file and its image´s folder
 
----
-
-If everything is fine, you should be able to open the 3 softwares at the same time.
+If everything is fine, you should be able to open the 3 softwares at the same time. I know that there is an issue if you have some anti-virus applications running, so i recommend to disable it during your installation process !
 
 ![](images/1_software.jpg)
 
 ---
 
-## Install a compiler and text editor
+## Configuring files and folders
 
 ---
 
