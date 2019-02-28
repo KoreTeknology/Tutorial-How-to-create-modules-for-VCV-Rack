@@ -6,9 +6,10 @@
 
 # Using module´s Template files
 
-As we have a basic understanding of how we will make a new module plugin from a bunch of files, placed in the Correct folder ! Now, lets have a look in detail inside those files:
+As we have a basic understanding of how we will make a new module plugin from a bunch of files, placed in the Correct folder ! 
+[**HERE**](files/template4VCVmodules.zip) is the link to download the template files ! Get the archive and uncompress it in your plugins folder...
 
-At least, you need only 4 files to make a module:
+Now, lets have a look in detail inside those files. At least, you need only 4 files to make a module:
 * _**Makefile**_ = Got all relation data para building the final plugin
 * _**MyModule.cpp**_ = Got all the source code of your module
 * _**MyProject.cpp**_ = Got all initialization data, shared between modules (if you create more than one)
