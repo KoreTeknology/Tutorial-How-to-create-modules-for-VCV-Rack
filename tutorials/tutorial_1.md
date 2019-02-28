@@ -6,9 +6,9 @@
 
 So, let´s start from the beginning, you computer is up to become your building machine, but you need to prepare your setup to be able to build applications. First of all, you will need to download a couple of Free softwares to perform each tasks, as always, i recommend to get some free or open source applications, but other professional softwares will be fine. Just mind the corresponding download, regarding your operating system, and don´t forget that VCV Rack is only working on 64bits OS !
 
-- **Coding**,  [**Visual Studio Code**](https://code.visualstudio.com/)
+- **Coding**,  [**Visual Studio Code**](https://code.visualstudio.com/), one of the best, free and great ui
 - **Drawing**, [**Inskape**](https://inkscape.org/), but it can be done with Adobe illustrator, Gravit, etc... or any on-line SVG Editor
-- **Building**, [**MSYS64 and its installer**](https://www.msys2.org/)
+- **Building**, [**MSYS64 and its installer**](https://www.msys2.org/), the only one that actually works for me...
 
 Once you have installed those softwares, you need to understand what kind of file´s extension you want to create and execute:
 
