@@ -30,8 +30,8 @@ One common suggestion, and it is very important, if you are not an experienced p
 1. Prerequisites
    - **Tutorial 01:** Setup your development environment under Win10 [**> Read the tutorial**](tutorials/tutorial_1.md)
      - _Install a compiler and text editor_
-     - _Setup VCV and modules files and folders_
-     - _Build VCV Rack from scratch_
+     - _Downloading the VCV Rack Repository and building the main application_
+     - _Configuring files and folders_
  
  ---
  
