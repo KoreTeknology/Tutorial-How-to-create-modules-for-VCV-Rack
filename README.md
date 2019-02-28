@@ -19,7 +19,7 @@ In this case, you want to join the group of musician-developper, and that´s fin
 ## Summary
 
 1. Prerequisites
-   - **Tutorial 01:** Setup your development environment under Win10 > [LINK](tutorials/tutorial_1.md)
+   - **Tutorial 01:** Setup your development environment under Win10 > [**Read the tutorial >>**](tutorials/tutorial_1.md)
      - _Install a compiler and text editor_
      - _Setup VCV and modules files and folders_
      - _Build VCV Rack from scratch_
