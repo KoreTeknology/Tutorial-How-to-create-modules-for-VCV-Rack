@@ -35,11 +35,11 @@ One common suggestion, and it is very important, if you are not an experienced p
  
  ---
  
-2. Building your First complete module, using Template files
-   - **Tutorial 02:** build and test the classic VCV Template > [TODO](https://)
-     - _Download the Template files_
-     - _Build and test the module in VCV Rack_
-   - **Tutorial 03:** Use the new tutorial´s template > [TODO](https://)
+2. Building your First complete module
+   - **Tutorial 02:** Build and test the classic VCV Fundamental modules > [**> Read the tutorial**](tutorials/tutorial_2.md)
+     - _Download the package files_
+     - _Build and test the modules in VCV Rack_
+   - **Tutorial 03:** Use the new tutorial´s template > [**> Read the tutorial**](tutorials/tutorial_3.md)
      - _Set basic module settings files and folders_
      - _Build and store new modules_
      - _Test your module in VCV Rack_
@@ -47,10 +47,10 @@ One common suggestion, and it is very important, if you are not an experienced p
 ---
 
 3. Organizing your work and planning tasks
-   - **Tutorial 04:** Consolidating and validating your project > [TODO](https://)
+   - **Tutorial 04:** Consolidating and validating your project > [**> Read the tutorial**](tutorials/tutorial_4.md)
      - _Check for similar existing plugins_
      - _Draw some mockups and define features_
-   - **Tutorial 05:** Are you ready ? if yes, time to work > [TODO](https://)
+   - **Tutorial 05:** Are you ready ? if yes, time to work > [**> Read the tutorial**](tutorials/tutorial_5.md)
      - _Setting up your SLUG, ModuleName, and files_
      - _Defining size and style for your module_
      - _Commenting your code blocks_
