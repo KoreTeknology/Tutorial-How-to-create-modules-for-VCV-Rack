@@ -20,8 +20,9 @@ Once you have installed those softwares, you need to understand what kind of fil
 
 If everything is fine, you should be able to open the 3 softwares at the same time.
 
-<img src="https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Project/Mockups/protoUI1.jpg" width=90%>
+![](images/1_software.jpg)
 
+---
 
 ## Install a compiler and text editor
 
