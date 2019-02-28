@@ -9,10 +9,10 @@ by uriel Deveaud - 2019
 
 So, you want to create your own instruments or module in VCV Rack, Welcome on board !
 
-Before we start talking about computer programming, let´s have a look at the general profile and basic knowledge you may need during the process of creating your plugin. right now, you have an idea, and i´am sure, the best one ! As a musician, you may have been diving into some sort of code... or not ! 
+Before we start talking about **computer programming**, let´s have a look at the general profile and basic knowledge you may need during the process of creating your plugin. Right now, you have an idea, and i´am sure, the best one ! As a musician, you may have been diving into some sort of code... or not ! Or maybe, as a programmer, you want to learn how to make musical instruments and audio devices ? This tutorials serie is made for you. Lets look at the general context:
 
 Basically, musicians don´t like to loose their time into coding work, but there are exceptions of course.
-In this case, you want to join the group of musician-developper, and that´s fine. We will progress step by step and go from a basic module to very complexe ones.
+In this case, you want to join the group of **musician-developper**, and that´s fine. We will progress step by step and go from a basic module to very complexe ones.
 
 If you are very new to audio programming, c++ and SVG design, you can still follow those tutorials, but i suggest you to be very curious and engaged regarding learning the bases or any introductions that you may see on  youtube or other forums and facebook pages... ask, search and take notes ;) By entering into module creation, there is 99% chance that you will produce more than one plugin, so, take it seriously, learn by method, stay organized, go step-by-step, respect yourself... and you will see, slowly, your instrument coming alive !, the price is nothing compared to the full satisfaction of creating your dream´s device and turning it on for the very first time :)
 
