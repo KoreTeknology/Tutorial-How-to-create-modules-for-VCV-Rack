@@ -2,6 +2,8 @@
 
 [**Return to Main Menu**](../README.md)
 
+![](images/header.jpg)
+
 # Using module´s Template files
 
 As we have a basic understanding of how we will make a new module plugin from a bunch of files, placed in the Correct folder ! Now, lets have a look in detail inside those files:
