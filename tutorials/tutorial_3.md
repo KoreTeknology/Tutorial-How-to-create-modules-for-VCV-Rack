@@ -23,23 +23,18 @@ Now, lets have a look in detail inside those files. At least, you need only 4 fi
 RACK_DIR ?= ../..
 
 SLUG = Tutorial
-
 VERSION = 0.6.1
 
 FLAGS +=
 CFLAGS +=
 CXXFLAGS +=
-
 LDFLAGS +=
-
 SOURCES += $(wildcard src/*.cpp)
-
 DISTRIBUTABLES += $(wildcard LICENSE*) res
 
 include $(RACK_DIR)/plugin.mk
 ```
-
-
+---
 
 ## MyProject.hpp
 ```c++
@@ -51,6 +46,7 @@ extern Plugin *plugin;
 
 extern Model *modelTUTO_MODULE;
 ```
+---
 
 ## MyProject.cpp
 ```c++
@@ -70,6 +66,7 @@ void init(Plugin *p) {
 	// As an alternative, consider lazy-loading assets and lookup tables when your module is created to reduce startup times of Rack.
 }
 ```
+---
 
 ## MyModule.cpp
 ```c++
