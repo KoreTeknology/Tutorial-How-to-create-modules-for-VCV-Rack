@@ -119,3 +119,11 @@ struct tutoModuleWidget : ModuleWidget {
 Model *modelTUTO_MODULE = Model::create<tutoModule, tutoModuleWidget>("Tutorial", "tutoModule", "tutorial Module", OSCILLATOR_TAG);
 
 ```
+
+
+
+---
+
+[**Return to Main Menu**](../README.md)
+
+[**Previous tutorial**](tutorial_2.md) - [**Next tutorial**](tutorial_4.md)
