@@ -12,11 +12,12 @@ As we have a basic understanding of how we will make a new module plugin from a 
 C:/msys64/home/Rack/plugins/tutorial/
 ```
 
-Now, lets have a look in detail inside those files. At least, you need only 4 files to make a module:
+Now, lets have a look in detail inside those files. At least, you need only 5 files to make a module:
 * _**Makefile**_ = Got all relation data para building the final plugin
 * _**MyModule.cpp**_ = Got all the source code of your module
 * _**MyProject.cpp**_ = Got all initialization data, shared between modules (if you create more than one)
-* _**MyProject.hpp**_ = Gor all Project references, common data and shared UI elements
+* _**MyProject.hpp**_ = Got all Project references, common data and shared UI elements
+* _**background.svg**_ = The design of your module´s background
 
 ## Makefile
 ```
