@@ -4,4 +4,7 @@
 
 ![](images/header.jpg)
 
-# Building your First complete module
+# Building your first modules
+
+As we did for building VCV Rack, we will now add some modules from the "Fundamental" Official Serie.
+
