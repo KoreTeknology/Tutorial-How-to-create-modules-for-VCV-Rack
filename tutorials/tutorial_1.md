@@ -61,7 +61,7 @@ If it not exists, you want create manually the plugins folder:
 C:/msys64/home/Rack/plugins/
 ```
 
-The VCV Rack source code doesn´t come with modules, you must download them and install them, or you must just open the module´s browser, on the official VCV RAck website. As you need some basic modules, you want to download the [**Fundamental**](https://github.com/VCVRack/Fundamental) modules serie. We will see in the next chapter how to build a module, and we will start with those ones, for their needed Audio, midi and classic modules.
+The VCV Rack source code doesn´t come with modules, you must download them and install them, or you must just open the module´s browser, on the official VCV RAck website. As you need some basic modules, you want to download the [**Fundamental**](https://github.com/VCVRack/Fundamental) modules serie. We will see in the next chapter how to build a module, and we will start with those ones, for their basic VCO, LFO, VCA, VCF,etc.. modules.
 
 Download the package and "unzip" it into your plugins folder.. that´s all for the moment.
 
