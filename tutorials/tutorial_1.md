@@ -4,6 +4,25 @@ Tutorial 01: Version 0.1
 
 ---
 
+So, let´s start from the beginning, you computer is up to become your building machine, but you need to prepare your setup to be able to build applications. First of all, you will need to download a couple of softwares to perform each tasks, as always, i recommend to get some free or open source applications, but other professional softwares will be fine. Just mind the corresponding download, regarding your operating system, and don´t forget that VCV Rack is only working on 64bits OS !
+
+- **Coding**,  [**Visual Studio Code**](https://code.visualstudio.com/)
+- **Drawing**, [**Vectr**](https://vectr.com/), but it can be done with Adobe illustrator, Inskape, Gravit, etc... or any on-line SVG Editor
+- **Building**, under Win10 64Bits, we will use [**MSYS64 and its installer**](https://www.msys2.org/)
+
+Once you have installed those softwares, you need to understand what kind of file´s extension you want to create and execute:
+
+- **.cpp**,  all our code will be written in C++, before it get compiled
+- **.svg**, our visuals will be exported as SVG or "vector based graphics"
+- **.dll**, our final release will include the plugin file and its image´s folder
+
+---
+
+If everything is fine, you should be able to open the 3 softwares at the same time.
+
+<img src="https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Project/Mockups/protoUI1.jpg" width=90%>
+
+
 ## Install a compiler and text editor
 
 ---
