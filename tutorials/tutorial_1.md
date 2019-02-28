@@ -2,6 +2,8 @@
 
 [**Return to Main Menu**](../README.md)
 
+![](images/header.jpg)
+
 # Setup your development environment under Win10
 
 So, let´s start from the beginning, you computer is up to become your building machine, but you need to prepare your setup to be able to build applications. First of all, you will need to download a couple of Free softwares to perform each tasks, as always, i recommend to get some free or open source applications, but other professional softwares will be fine. Just mind the corresponding download, regarding your operating system, and don´t forget that VCV Rack is only working on 64bits OS !
