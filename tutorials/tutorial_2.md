@@ -2,4 +2,6 @@
 
 [**Return to Main Menu**](../README.md)
 
+![](images/header.jpg)
+
 # Building your First complete module
