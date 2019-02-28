@@ -1,4 +1,6 @@
-**Tutorial 01**: Version 0.1 (written by Uriel Deveaud - 01/2019) [**Return to Menu**](../README.md)
+**Tutorial 01**: Version 0.1 (written by Uriel Deveaud - 01/2019) 
+
+[**Return to Main Menu**](../README.md)
 
 # Setup your development environment under Win10
 
