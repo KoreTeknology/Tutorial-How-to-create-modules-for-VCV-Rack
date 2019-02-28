@@ -1,9 +1,9 @@
 # Tutorial: How to create modules for VCV-Rack
-Trainings and tips on how to build your own virtual instrument for the VCV Rack platform.
-
-by uriel Deveaud - 2019
+Trainings and tips on how to build your own virtual instrument for the VCV Rack platform, by uriel Deveaud - 2019
 
 ---
+
+![](tutorials/images/header.jpg)
 
 ## Introduction
 
