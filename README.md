@@ -13,6 +13,16 @@ Before we start talking about computer programming, let´s have a look at the ge
 Basically, musicians don´t like to loose their time into coding work, but there are exceptions of course.
 In this case, you want to join the group of musician-developper, and that´s fine. We will progress step by step and go from a basic module to very complexe ones.
 
+If you are very new to audio programming, c++ and SVG design, you can still follow those tutorials, but i suggest you to be very curious and engaged regarding learning the bases or any introductions that you may see on  youtube or other forums and facebook pages... ask, search and take notes ;) By entering into module creation, there is 99% chance that you will produce more than one plugin, so, take it seriously, learn by method, stay organized, go step-by-step, respect yourself... and you will see, slowly, your instrument coming alive !, the price is nothing compared to the full satisfaction of creating your dream´s device and turning it on for the very first time :)
+
+Well, let´s have a look at this tutorial´s menu. Each section presents various tasks that you want to repeat as necessary, depending of your personal project. So first, you need to know about the "VCV modules API code structure", to know how to compile a plugin and finally to test your creation "live" in VCV Rack. Once this cycle is understood, you are ready to developpe your module´s features and users interface (UI). As just said, we are progressing, following these 3 steps in loop: 
+
+* Looking for code expressions and understanding the "rules"
+* Adapting the code rules to the actual needs
+* Duplicate and clean code sections
+
+Of course, after some times, you will build your own codes library and you will be able to jump quickly to the next level !
+One common suggestion, and it is very important, if you are not an experienced programmer, to "explore" other Module´s codes from their authors pages. From them, you will learn what solution they were choosing and what is the result. You can download their repositories and build them on your local machine. Great teaching, but at least, you need to understand what you are reading :) Let´s reach this objective together with this tutorials serie. Enjoy !
 
 ## Summary
 
