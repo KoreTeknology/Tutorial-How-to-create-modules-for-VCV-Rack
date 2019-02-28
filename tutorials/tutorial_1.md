@@ -18,7 +18,26 @@ If everything is fine, you should be able to open the 3 softwares at the same ti
 
 ![](images/1_software.jpg)
 
+Don´t forget to do any necessary updates, you always need the last version ! I suggest you to read carefully this page, regarding Msys64 updates: [**How to update MSYS64 ?**](https://www.msys2.org/)
+
 ---
+
+## Downloading the VCV Rack Repository and building the main application
+
+Now, we have to get the source code of VCV Rack, to be able to compile it and to run it of course !
+Again, read carefully the VCV documentation page [**VCV documentation page**](https://vcvrack.com/manual/Building.html#setting-up-your-development-environment), and make sure you are completing each steps of the process, it is kind of easy, just follow the guide.
+Be aware that from now, most of the commands will be executed thru the Msys64 console terminal, keep it open !
+
+Also, you should have this main VCV Rack directory´s accessible at:
+```
+C:/msys64/home/Rack/
+```
+If it not exists, you must create manually the plugins folder:
+```
+C:/msys64/home/Rack/plugins/
+```
+
+
 
 ## Configuring files and folders
 
