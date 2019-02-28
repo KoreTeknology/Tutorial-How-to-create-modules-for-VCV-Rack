@@ -36,10 +36,10 @@ One common suggestion, and it is very important, if you are not an experienced p
  ---
  
 2. Building your First complete module, using Template files
-   - **Tutorial 02:** build and test the classic VCV Template > [LINK](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Documentation/tuto1.md)
+   - **Tutorial 02:** build and test the classic VCV Template > [TODO](https://)
      - _Download the Template files_
      - _Build and test the module in VCV Rack_
-   - **Tutorial 03:** Use the new tutorial´s template > [LINK](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Documentation/tuto1.md)
+   - **Tutorial 03:** Use the new tutorial´s template > [TODO](https://)
      - _Set basic module settings files and folders_
      - _Build and store new modules_
      - _Test your module in VCV Rack_
@@ -47,17 +47,18 @@ One common suggestion, and it is very important, if you are not an experienced p
 ---
 
 3. Organizing your work and planning tasks
-   - **Tutorial 04:** Consolidating and validating your project > [LINK](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Documentation/tuto1.md)
+   - **Tutorial 04:** Consolidating and validating your project > [TODO](https://)
      - _Check for similar existing plugins_
      - _Draw some mockups and define features_
-   - **Tutorial 05:** Are you ready ? if yes, time to work > [LINK](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Documentation/tuto1.md)
+   - **Tutorial 05:** Are you ready ? if yes, time to work > [TODO](https://)
      - _Setting up your SLUG, ModuleName, and files_
      - _Defining size and style for your module_
+     - _Commenting your code blocks_
 
 ---
 
 4. Building your first created module
-   - **Tutorial 06:** Building basic components > [LINK](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Documentation/tuto1.md)
+   - **Tutorial 06:** Building basic components > [TODO](https://)
      - _Objective, creating a simple audio circuit, aka "THE MIXER"_
      - _Creating Input and outpout ports_
      - _Creating a knob that controls a num param_
@@ -67,7 +68,7 @@ One common suggestion, and it is very important, if you are not an experienced p
      - _Creating a momentary button_
      - _Creating a menu with static infos_
      - _Creating a user´s dynamic info on panel_
-   - **Tutorial 07:** Customizing your components > [LINK](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Documentation/tuto1.md)
+   - **Tutorial 07:** Customizing your components > [TODO](https://)
      - _Creating your background layer_
      - _Creating new controls_
      - _Creating a screen panel_
@@ -77,13 +78,13 @@ One common suggestion, and it is very important, if you are not an experienced p
 ---
 
 5. Building an advanced module
-   - **Tutorial 08:** Creating an audio source > [LINK](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Documentation/tuto1.md)
+   - **Tutorial 08:** Creating an audio source > [TODO](https://)
      - _Objective, creating a new audio circuit, aka "THE SAMPLER"_
      - ...
-   - **Tutorial 09:** Creating a wave generator > [LINK](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Documentation/tuto1.md)
+   - **Tutorial 09:** Creating a wave generator > [TODO](https://)
      - _Objective, creating a new audio circuit, aka "THE SYNTHETIZER"_
      - ...
-   - **Tutorial 10:** Creating a filter section > [LINK](https://github.com/KoreTeknology/Quadraphonic-Plugins-for-VCV-Rack/blob/master/Documentation/tuto1.md)
+   - **Tutorial 10:** Creating a filter section > [TODO](https://)
      - _Objective, creating a new audio circuit, aka "THE EQUALIZER"_
      - ...
   
